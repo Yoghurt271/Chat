@@ -1,0 +1,14 @@
+C:\Users\murvi\source\repos\Client\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+C:\Users\murvi\source\repos\Client\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murvi\source\repos\Client\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\murvi\source\repos\Client\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\murvi\source\repos\Client\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\murvi\source\repos\Client\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\murvi\source\repos\Client\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\murvi\source\repos\Client\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\murvi\source\repos\Client\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\murvi\source\repos\Client\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\murvi\source\repos\Client\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\murvi\source\repos\Client\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\murvi\source\repos\Client\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\murvi\source\repos\Client\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
